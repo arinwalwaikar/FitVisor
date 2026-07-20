@@ -6,6 +6,12 @@ FitVisor provides real-time exercise analysis using **MediaPipe Pose**, an AI fi
 
 ---
 
+
+## 🌐 Live Demo
+
+- 🏋️ Squat Form Analyzer: https://form-analyzer-alpha.vercel.app/squats.html
+- 💪 Biceps Form Analyzer: https://form-analyzer-alpha.vercel.app/biceps.html
+
 # 🚀 Features
 
 ## 🏃 Real-Time Exercise Analysis
